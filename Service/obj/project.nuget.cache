@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MImV5lJoHaI=",
+  "dgSpecHash": "00eh/Hbi5i0=",
   "success": true,
-  "projectFilePath": "D:\\TetPeeV2\\TETPEE-2026-PersonalProject-V2\\Service\\Service.csproj",
+  "projectFilePath": "D:\\TetPeeV2\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hungvd\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\hungvd\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
